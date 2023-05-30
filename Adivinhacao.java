@@ -28,8 +28,7 @@ public class Adivinhacao {
 		}
 
 		if (tentativas == 5) {
-			System.out
-					.println("Você não conseguiu adivinhar o número em 5 tentativas. O número era " + numeroAleatorio);
+			System.out.println("Você não conseguiu adivinhar o número em 5 tentativas. O número era " + numeroAleatorio);
 		}
 
 	}
