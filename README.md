@@ -1,2 +1,2 @@
 # Jogo adivinhacao
- Programa para o usuário tentar acertar qual é o número que o computador escolheu
+ Programa para o usuário tentar adivinhar quais são os 5 número que o computador escolheu.
